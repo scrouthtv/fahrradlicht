@@ -1,8 +1,7 @@
+### Specifications ###
+ECE*.pdf
 
 ### KiCad ###
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
-
 # Temporary files
 *.000
 *.bak
@@ -18,6 +17,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*-cache.lib
 
 # Netlist files (exported from Eeschema)
 *.net

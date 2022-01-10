@@ -1,0 +1,19 @@
+switch
+Vcc = 20 V
+Vout = 5 V
+I = 5 A
+
+Vsat= Vcc - 1.5V
+Vf = 0.35 V
+fosc = 72 kHz
+
+ton/toff = 0,3963
+ton = 3,942 us
+DIL = 1 A
+Ipk = 5,5 A
+L = 5,35 / DIL[A] [uH]
+
+ -- BOM --
+STUSB4500	1,45 €
+MC34167		2,01 €
+ECS-MPIL-0630-100MC 0,41 €

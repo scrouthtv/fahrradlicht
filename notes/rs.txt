@@ -1,0 +1,32 @@
+   D0 D1 Rges
+1.  0  0 Rs1
+2.  1  0 Rs1 | Rs2
+3.  0  1 Rs1 | Rs3
+4.  1  1 Rs1 | Rs2 | Rs3
+
+
+a) Rs2 > Rs3
+
+
+
+I1 = 700 mA
+I2 = 500 mA
+I3 = 300 mA
+
+Rs1 = 150 mOhm
+Rs2 = 200 mOhm
+Rs3 = 330 mOhm
+
+I = U/R
+P = U*I
+P = U^2/R
+
+
+
+
+
+
+I = U/R
+  = 2V/100
+  = 20 mA
+P = 40 mW

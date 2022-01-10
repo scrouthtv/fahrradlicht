@@ -1,0 +1,14 @@
+https://www.mouser.de/ProductDetail/OSRAM-Opto-Semiconductors/GW-PLLRA1PM-N4N6-XX52-1-700-R18?qs=eP2BKZSCXI6PPmaoGgeJWg==
+
+https://www.mouser.de/ProductDetail/STMicroelectronics/LED2000DR?qs=19rwF8CI%252BwkZyr%252B18P3SIw%3D%3D
+Akku läuft zw. 3 - 4 V
+
+https://www.mouser.de/ProductDetail/Texas-Instruments/SN74LV163ADR?qs=sGAEpiMZZMtgJDuTUz7Xu%2F5xm1vzVukr7pYrpAwBmFM%3D
+https://www.muekra.de/sn74ls163.html
+https://www.mouser.de/ProductDetail/Diodes-Incorporated/DMN3731U-7?qs=EBDBlbfErPyEqvOCBrONHQ%3D%3D
+
+https://www.conrad.de/de/f/18650-akku-1677435.html
+7,48 € - https://www.akkuteile.de/en/samsung-inr18650-35e-3-6v-3-7v-3500mah-plus-pole-flat_100631
+9,90 € - https://www.akkushop.de/de/lg-inr18650mj1-3500mah-36v-37v-li-ion-akku-abmessungen-651x183mm-beachten-flattop/
+
+TODO: PCB Design

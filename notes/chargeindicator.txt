@@ -1,0 +1,4 @@
+charge controller which includes fuel gauge?
+bq2050
+linear display driver
+https://circuitdigest.com/electronic-circuits/simple-battery-level-indicator-using-op-amp
